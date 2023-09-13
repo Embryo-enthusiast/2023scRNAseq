@@ -1,0 +1,3 @@
+Files contained here should be used for the 3d segmentation and quantfication of z-stacked images captured using a CZ microscope, and expect .czi as the base input.
+first run the macro code using FIJI (required plugins listed in file), which is an automated trackmate/stardist pipe line. The R code expects the output from the trackmate/stardist pipe line, and contains several graphing and QC functions
+Code wirtten by Andrew Strange with signficant contrubutions from Sophie Kranso
